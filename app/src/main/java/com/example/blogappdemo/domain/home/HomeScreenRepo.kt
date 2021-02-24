@@ -1,4 +1,4 @@
-package com.example.blogappdemo.domain
+package com.example.blogappdemo.domain.home
 
 import com.example.blogappdemo.core.Resource
 import com.example.blogappdemo.data.model.Post
